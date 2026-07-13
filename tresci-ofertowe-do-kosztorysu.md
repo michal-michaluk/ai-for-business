@@ -219,6 +219,7 @@ Szczegółowy harmonogram ustalany jest w Fazie 1 (Audit i strategia).
 
 ## 7. Dlaczego Bottega
 
+- **Doświadczenie w bankowości konsumenckiej i inwestycyjnej** — projekty transformacyjne w sektorze finansowym, w tym dla banków i domów maklerskich; znajomość regulacji KNF, GPW i UE
 - **15 lat doświadczenia** w szkoleniach i doradztwie dla zespołów deweloperskich
 - **78 aktywnych trenerów** o modelu kompetencji Π (Pi) — silny filar techniczny
   oraz silny filar wspierający: umiejętności miękkie, talent edukacyjny, myślenie
