@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+Icon?
+._*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+
+# Office temp files
+~$*
+
+# Backup files
+*.backup-*
+
+# Generated output (regenerate from source)
+*.pdf
+*.png
+*.html
+*.csv
