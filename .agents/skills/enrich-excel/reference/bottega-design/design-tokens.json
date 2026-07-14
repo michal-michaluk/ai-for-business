@@ -1,0 +1,61 @@
+{
+  "source_url": "https://bottega.com.pl/ai-sdlc",
+  "brand": "Bottega IT Minds",
+  "tokens": {
+    "colors": [
+      { "name": "primary-dark", "hex": "#151c29", "rgb": "rgb(21, 28, 41)", "usage": "body background, dark sections" },
+      { "name": "primary-navy", "hex": "#293250", "rgb": "rgb(41, 50, 80)", "usage": "cards, secondary backgrounds" },
+      { "name": "accent-orange", "hex": "#ff5d24", "rgb": "rgb(255, 93, 36)", "usage": "CTAs, highlights, links hover" },
+      { "name": "text-muted", "hex": "#8292a4", "rgb": "rgb(130, 146, 164)", "usage": "body text, secondary text" },
+      { "name": "text-white", "hex": "#fefefe", "rgb": "rgb(254, 254, 254)", "usage": "headings on dark, primary text" },
+      { "name": "near-black", "hex": "#0a0a0a", "rgb": "rgb(10, 10, 10)", "usage": "footer text, strong text" },
+      { "name": "border-divider", "hex": "#343d5a", "rgb": "rgb(52, 61, 90)", "usage": "borders, dividers" },
+      { "name": "light-bg", "hex": "#eaeef6", "rgb": "rgb(234, 238, 246)", "usage": "light sections" },
+      { "name": "hover-navy", "hex": "#242d4b", "rgb": "rgb(36, 45, 75)", "usage": "hover state, alternating rows" }
+    ],
+    "font_families": [
+      "\"Work Sans\", Roboto, Arial, sans-serif",
+      "\"Open Sans\", Roboto, Arial, sans-serif"
+    ],
+    "typography": {
+      "headings": { "family": "Work Sans", "weights": [300, 400, 500, 600, 700], "fallback": "Roboto, Arial, sans-serif" },
+      "body": { "family": "Open Sans", "weights": [300, 400, 600, 700], "fallback": "Roboto, Arial, sans-serif" },
+      "sizes": [
+        { "rem": "0.75rem", "px": "12px", "usage": "small text" },
+        { "rem": "0.875rem", "px": "14px", "usage": "body text" },
+        { "rem": "1rem", "px": "16px", "usage": "base body" },
+        { "rem": "1.25rem", "px": "20px", "usage": "h5" },
+        { "rem": "1.5rem", "px": "24px", "usage": "h3" },
+        { "rem": "2.25rem", "px": "36px", "usage": "section heading" }
+      ]
+    },
+    "spacing_scale": [
+      { "rem": "0.5rem", "px": "8px" },
+      { "rem": "0.9375rem", "px": "15px" },
+      { "rem": "1rem", "px": "16px" },
+      { "rem": "1.25rem", "px": "20px" },
+      { "rem": "1.875rem", "px": "30px" }
+    ],
+    "border_radius": [
+      { "value": "0", "usage": "default, sharp corners" },
+      { "value": "4px", "usage": "small rounding" },
+      { "value": "15px", "usage": "large buttons/cards" }
+    ]
+  },
+  "excel_styling_rules": {
+    "top_header_bg": "#293250",
+    "top_header_text": "#FEFEFE",
+    "section_header_bg": "#293250",
+    "section_header_text": "#FEFEFE",
+    "sub_header_text": "#FF5D24",
+    "body_text": "#0A0A0A",
+    "body_bg": "#151C29",
+    "alt_row_bg": "#242D4B",
+    "table_header_bg": "#293250",
+    "table_header_text": "#FEFEFE",
+    "accent_text": "#FF5D24",
+    "border_color": "#343D5A",
+    "heading_font": "Work Sans",
+    "body_font": "Open Sans"
+  }
+}
